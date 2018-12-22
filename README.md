@@ -6,11 +6,6 @@ The goals of this project are :
 * Implement a web interface using the Phoenix and Capture various metrics and send them via Phoenix to the browser to build Charts. 
 * Implement various mining/transacting scenarios.
 
-## Group Information
-
-* **Shivaditya Jatar** - *UF ID: 6203 9241*
-* **Ayush Mittal** - *UF ID: 3777 8171*
-
 ## Contents of this file
 
 Simulator Contents, Prerequisites, Instruction Section, Mining and Transacting Scenarios
